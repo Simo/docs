@@ -1,0 +1,9 @@
+---
+layout: default
+permalink: /angular3/
+---
+
+= Angular
+
+[source,ruby]
+puts "hello, world!"
